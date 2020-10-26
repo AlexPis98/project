@@ -39,7 +39,40 @@ console.log(typeof(answer)); */
 // document.write(answers);
 
 // const category = 'toys';
-// console.log('https://someurl.come/');
+// console.log(`https://someurl.come/${category}/5`);
 
-const user = 'name';
-alert(`hie, ${user}`);
+// const user = 'name';
+// alert(`hie, ${user}`);
+
+// let incr = 10,
+//     decr = 10;
+
+//     incr++;    //можно и ++incr;
+//     decr--;     //можно и --decr;  
+
+//     console.log(incr);
+//     console.log(decr);
+
+//постфиксная incr++; и префиксная форма ++incr;
+
+
+// console.log(5%2); -выведет 1. Остаток от деления
+
+// == - сравнение
+// === строгое равенства (сравнивает и по типу данных)
+
+// && - оператор И
+// || - оператор ИЛИ
+
+// const isChecked = true,
+//         isClose = true;
+
+//         console.log(isChecked && isClose);
+
+// const isChecked = true,
+//         isClose = true;
+
+//         console.log(isChecked && !isClose);    
+// - "!" восклицательный знак это знак отрицания, он преобразовал true в false
+
+
